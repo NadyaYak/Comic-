@@ -1,0 +1,30 @@
+ .comicContainer{
+   /*border:solid black; */
+    height:120vh;
+
+    
+}
+.RowOne, .RowTwo{
+   /* border:solid blue;*/
+    height:45%;
+    margin:10px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.block{
+   /* border: solid green; */
+    width:33%;
+}
+.pic{
+   /* border:solid purple;*/
+    background-color:purple; 
+    width:100%;
+    height:75%;
+}
+
+.PunchLine{
+    /*border:solid red; */
+    height: 15%;
+    text-align: center;
+}
